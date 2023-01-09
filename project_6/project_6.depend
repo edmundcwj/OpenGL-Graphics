@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1669744120 source:c:\users\edmun\desktop\172_project\project_6\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<math.h>
+	<vector>
+	<string.h>
+	<string>
+	<sstream>
+	<cstring>
+	<SOIL.h>
+	<fstream>
+	<time.h>
+
+1661967878 c:\users\edmun\desktop\172_project\common\include\gl\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1502806573 c:\users\edmun\desktop\172_project\common\include\soil.h
+
